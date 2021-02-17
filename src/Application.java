@@ -20,6 +20,7 @@ public class Application extends Frame  implements WindowListener{
 		this.addWindowListener(this);
 		this.setTitle("tutoriel git");
 		this.setTitle("Nicotine forever");
+		this.setTitle("eve le sang");
 		this.add(vue);
 		this.pack();
 		this.setVisible(true);
